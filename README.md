@@ -1,4 +1,4 @@
-# Customer Segmentation Tools
+# Customer Segmentation Tool
 
 ## Overview
 
