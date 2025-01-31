@@ -1,4 +1,4 @@
-# Customer Segmentation using Clustering Algorithms
+# Customer Segmentation Tools
 
 ## Overview
 
